@@ -3,6 +3,9 @@
   <a href="https://github.com/jhay-tech/jhay-tech/tree/main"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&duration=5000&background=FF000000&center=true&lines=Information+Technology+Bachelors+Degree+Graduate;Aspiring+Web+Developer;Competitive+Programmer"></a>
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+
 
 
 
