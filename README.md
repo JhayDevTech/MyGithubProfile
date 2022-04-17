@@ -7,6 +7,10 @@
 
 
 
+<img src ="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=LinkedIn&logoColor=white">&nbsp;&nbsp;
+
 
 
 ![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=contribs)
