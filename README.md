@@ -31,7 +31,7 @@
 </p>
 
 
-![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=contribs)
+![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=stars)
 
 
 <!---
