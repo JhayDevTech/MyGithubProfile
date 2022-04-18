@@ -10,6 +10,13 @@
 (Programming,Networking,Troubleshooting,etc.)
 <br>
 <br>
+
+<p align="center">
+<img width="200" src="https://github.com/jhay-tech/jhay-tech/blob/main/male.jpg?raw=true">
+</p>
+<br>
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/jhay-tech/jhay-tech/tree/main"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&duration=5000&background=FF000000&center=true&lines=Information+Technology+Bachelors+Degree+Graduate;Aspiring+Web+Developer;Competitive+Programmer"></a>
 </p>
