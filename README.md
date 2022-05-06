@@ -21,8 +21,11 @@
 <br>
 <br>
 
+<p align = "center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&background=FF000000&center=true&lines=Information+Technology;Aspiring+Web+Developer;Competitive+Programmer+)](https://git.io/typing-svg)
 
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
