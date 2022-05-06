@@ -16,11 +16,13 @@
 </p>
 <br>
 <br>
-
+<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center">
-  <a href="https://github.com/jhay-tech/jhay-tech/tree/main"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&duration=5000&background=FF000000&center=true&lines=Information+Technology+Bachelors+Degree+Graduate;Aspiring+Web+Developer;Competitive+Programmer"></a>
-</p>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&background=FF000000&center=true&lines=Information+Technology;Aspiring+Web+Developer;Competitive+Programmer+)](https://git.io/typing-svg)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
