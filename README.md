@@ -28,7 +28,7 @@
 
 </p>
 
- Connect with me
+:boy:Connect with me
 
 
 <p align="center">
@@ -38,6 +38,21 @@
 <img src="https://img.shields.io/badge/Whatsapp-25D366.svg?style=plastic&logo=Whatsapp&logoColor=white">&nbsp;&nbsp;
 </p>
 
+:computer: My Skills
+<br><br>
+Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)&nbsp;&nbsp;
+<br><br>
+Version Control
+<br><br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=stars&border_radius=25)
 
