@@ -4,7 +4,7 @@
 - :computer: I’m currently learning Javascript and Unity Game Engine
 
   
-- 👯 I’m looking to collaborate on Projects
+- 👯 Competetive Programmer
   
 - 💬 Ask me about Information Technology Topics Related. 
 <BR>EXAMPLE:
