@@ -59,7 +59,7 @@ Game Engine:<br><br>
   
 ![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=stars&border_radius=25)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhay-tech&layout=compact&theme=midnight-purple&border_radius=20)](https://github.com/jhay-tech/repositoryname)
+
 <!---
 jhay-tech/jhay-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
