@@ -6,7 +6,7 @@
   
 - 👯 Competetive Programmer
   
-- 💬 Ask me about Information Technology Topics Related. 
+- 💬 Ask me about Information Technology related topics. 
 <BR>EXAMPLE:
 (Programming,Networking,Troubleshooting,etc.)
 <br>
