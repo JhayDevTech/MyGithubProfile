@@ -59,7 +59,7 @@ Game Engine:<br><br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   
 ![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=stars&border_radius=25)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhay-tech&layout=compact&theme=midnight-purple&border_radius=25&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jhay-tech/jhay-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
