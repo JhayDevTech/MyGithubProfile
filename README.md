@@ -2,7 +2,7 @@
   <h2>Welcome to my Github Profile<h2>
 
 
-- :computer: I’m currently learning Javascript and Unity Game Engine
+- :computer: I’m currently learning CSS, Javascript and Unity Game Engine
 
   
 - 👯 Competetive Programmer
