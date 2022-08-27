@@ -60,7 +60,7 @@ Operating System:<br><br>
 Game Engine:<br><br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   
-![jhay-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhay-tech&show_icons=true&theme=midnight-purple&hide=stars&border_radius=25)&nbsp;&nbsp;<br>
+![JhayDevTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhayDevTech&show_icons=true&theme=midnight-purple&hide=stars&border_radius=25)&nbsp;&nbsp;<br>
 
 
 <!---
