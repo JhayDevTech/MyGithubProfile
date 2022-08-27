@@ -6,11 +6,6 @@
   
 - 👯 Competetive Programmer
   
-- 💬 Ask me about Information Technology related topics. 
-<BR>EXAMPLE:
-(Programming,Networking,Troubleshooting,etc.)
-<br>
-<br>
 
 <p align="center">
 <img width="200" src="https://github.com/jhay-tech/jhay-tech/blob/main/male.jpg?raw=true">
