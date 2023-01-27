@@ -60,9 +60,6 @@ Operating System:<br><br>
 Game Engine:<br><br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   
-![JhayDevTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhayDevTech&show_icons=true&theme=midnight-purple&hide=stars&border_radius=25)&nbsp;&nbsp;<br>
-
-
 <!---
 jhay-tech/jhay-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
