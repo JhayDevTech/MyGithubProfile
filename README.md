@@ -2,7 +2,7 @@
   <h2>Welcome to my Github Profile<h2>
 
 
-- :computer: Connecting the world, one code at a time."
+- :computer: Connecting the world, one code at a time.
 
   
 - 👯 Competetive Programmer
