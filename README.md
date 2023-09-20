@@ -5,7 +5,7 @@
 - :computer: Connecting the world, one code at a time.
 
   
-- 👯 Competetive Programmer
+- 👯 Collaborative Developer
   
 
 <p align="center">
