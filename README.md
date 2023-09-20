@@ -20,7 +20,7 @@
 
 <p align = "center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&background=FF000000&center=true&lines=Information+Technology;Aspiring+Web+Developer;Competitive+Programmer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&background=FF000000&center=true&lines=Information+Technology;Aspiring+IT Professional;Competitive+Programmer+)](https://git.io/typing-svg)
 
 </p>
 
